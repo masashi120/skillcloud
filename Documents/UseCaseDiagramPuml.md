@@ -1,3 +1,8 @@
+## Diagram
+
+### Use case diagram
+
+```uml
 @startuml
 
 left to right direction
@@ -21,3 +26,4 @@ actor 非会員
 非会員 --> (会員登録をする)
 
 @enduml
+```
